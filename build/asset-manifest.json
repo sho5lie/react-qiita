@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-qiita/static/css/main.b48ce68b.css",
+    "main.js": "/react-qiita/static/js/main.0658281f.js",
+    "index.html": "/react-qiita/index.html",
+    "main.b48ce68b.css.map": "/react-qiita/static/css/main.b48ce68b.css.map",
+    "main.0658281f.js.map": "/react-qiita/static/js/main.0658281f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b48ce68b.css",
+    "static/js/main.0658281f.js"
+  ]
+}
